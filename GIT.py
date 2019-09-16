@@ -9,6 +9,10 @@ sourcetree --> remote --> add --> check default remote -->urlpath (github reposi
 git push -- command is used to push the code from local github repository to remote github repository
 
 modify existing file and commiting the modify file..
+to remove the changes we can used discard....
+
+
+
 
 
 '''
