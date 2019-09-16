@@ -1,0 +1,8 @@
+[qa]
+url="testing.com"
+username="user1"
+pwd="pwdQA"
+[dev]
+url="development.com"
+username="user2"
+pwd="pwddev"
