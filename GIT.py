@@ -12,7 +12,7 @@ modify existing file and commiting the modify file..
 to remove the changes we can used discard....
 
 
-
+git clone: -->
 
 
 '''
